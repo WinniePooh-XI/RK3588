@@ -1,1 +1,1 @@
-# 连接方式及环境配置
+Apprentice should know.
